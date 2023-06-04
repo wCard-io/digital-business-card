@@ -51,3 +51,45 @@ There are several ways in which your card viewers can connect with you:
 2. Sending your contact information to their email.
 3. Exchanging contact information directly with you.
 4. You can find their contact details in your contact book.
+
+# Endless Features
+1. Unlimited card sharing 			
+2. Customer Support			
+3. Hide wCard Branding 			
+4. Card Link & Domain
+5. SSL Certificate 			
+6. Personalize Link 			
+7. Custom Domain 			
+8. wCard Connect
+9. Contact Book 			
+10. Download Contact File 			
+11. Send Contact to Email 			
+12. Exchange Contact
+13. Design
+14. Mobile Responsive
+15. Profile Photo
+16. Banner Photos
+17. Verified Badge
+18. Premium Templates
+19. Custom Colors
+20. Dark Mode
+21. Dark Mode Switch Button
+22. Custom Header Style
+23. Multiple Pages & Sections
+24. Photos Uploads to Gallery
+25. Call to Action Button
+26. Direct WhatsApp Button
+27. Social Profile Links
+28. QR Code
+29. NFC Modes
+30. Payment Links
+31. Attachments
+32. Embed Videos
+33. Embed Music
+34. Connect YouTube Channel
+35. Facebook Chat Integration
+36. Calendly Integration
+37. Google Analytics
+38. Custom Javascript
+39. Custom Copyright Text
+40. SEO Optimizations	
