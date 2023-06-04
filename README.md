@@ -22,6 +22,10 @@
 
 <img src="https://wcardcdn.b-cdn.net/images/web/og_image.jpg" />
 
+wCard.io is a digital platform that enables users to create and share their own customized digital business cards. The platform allows users to create and design their digital cards, add their contact information, and include links to their social media profiles or websites.
+
+
+
 # How wCard.io Works?
 
 ### 1. Create Digital Business Card
