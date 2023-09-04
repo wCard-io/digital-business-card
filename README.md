@@ -11,7 +11,7 @@
     <a href="https://wcard.io"><strong>Go to Website</strong></a>
     <br />
     <br />
-    <a href="https://demo.wcard.io">View Demo</a>
+    <a href="https://demo.wcard.me">View Demo</a>
     ·
     <a href="https://wcard.io/features">Features</a>
     ·
